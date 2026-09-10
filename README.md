@@ -24,8 +24,8 @@ El sistema opera 100% en la nube bajo el modelo SaaS (Software as a Service).
 Este sistema de punto de venta (POS) y gestión operativa está diseñado para optimizar los tiempos y recursos del local:
 
 *   **📱 Pedidos Autónomos:** Interfaz amigable para que el cliente pueda realizar su pedido de forma independiente y directa.
-*   **📖 Gestión de Recetas (`recetas.html`):** Módulo dedicado a la creación de escandallos/recetas, detallando la cantidad exacta de insumos que requiere cada plato.
-*   **📦 Inventario Inteligente (`inventario.html`):** Vinculado directamente a las recetas, realiza el descuento matemático y automático de los ingredientes en tiempo real con cada venta registrada.
+*   **📖 Gestión de Recetas:** Módulo dedicado a la creación de escandallos/recetas, detallando la cantidad exacta de insumos que requiere cada plato.
+*   **📦 Inventario Inteligente:** Vinculado directamente a las recetas, realiza el descuento matemático y automático de los ingredientes en tiempo real con cada venta registrada.
 *   **📊 Cierres de Caja y Reportes:** Módulo contable que permite realizar cortes y reportes financieros estructurados de manera **diaria, semanal y mensual** para un control absoluto de los ingresos.
 
 ---
