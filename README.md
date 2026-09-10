@@ -43,12 +43,20 @@ Este sistema de punto de venta (POS) y gestión operativa está diseñado para o
 
 <img width="320" height="402" alt="Captura de pantalla 2026-09-10 134254" src="https://github.com/user-attachments/assets/4507c39f-4329-4fe6-9e4f-ce4415095fa0" />
 
+<img width="582" height="398" alt="Captura de pantalla 2026-09-10 134326" src="https://github.com/user-attachments/assets/d14716d4-2c73-4217-8991-a2f4bebcbe03" />
+
 
 ### Módulo de Inventario y Recetas
-*(Arrastra una foto de inventario.html aquí)*
+
+<img width="944" height="403" alt="Captura de pantalla 2026-09-10 134134" src="https://github.com/user-attachments/assets/76663f42-1c7d-41b8-9872-97d8fe4d5bb0" />
+
+<img width="514" height="312" alt="Captura de pantalla 2026-09-10 134207" src="https://github.com/user-attachments/assets/274e25b5-78f4-4931-9cb0-c4ba7576d5c6" />
+
 
 ### Control de Caja
-*(Arrastra una foto de tus cierres de caja aquí)*
+
+<img width="919" height="398" alt="Captura de pantalla 2026-09-10 134058" src="https://github.com/user-attachments/assets/b577bc0e-ab8d-4a37-a0e5-8b5d06e4e8a4" />
+
 
 ---
 
